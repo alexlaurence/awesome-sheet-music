@@ -220,6 +220,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [hacklily]: https://www.hacklily.org
 [JotChord]: https://www.jotchord.com
 [La Partition Numerique]: https://www.partitionnumerique.com
+[MandoScribe]: https://www.mandoscribe.com/
 [microharmonic]: https://www.microharmonic.com
 [MoonPiano]: https://moonpiano.praisethemoon.org/
 [Newzik]: https://newzik.com/en
