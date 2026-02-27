@@ -185,6 +185,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [JotChord] - Text-based online editor for making Nashville Number System style song charts as PDFs.
 - [La Partition Numerique] -
     French speaking site dedicated to the future of musical scores.
+- [MandoScribe] \(commercial\) - Create slash chords + tabs sheet music in browser for Mandolin.
 - [microharmonic] - Microtone keyboard.
   and chord diagrams without the need for special tools.
 - [Newzik] - Collaborative sheet music management app
